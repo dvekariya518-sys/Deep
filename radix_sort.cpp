@@ -31,7 +31,7 @@ void radix_sort(vector<int>&a){
 }
 int main(){
     int s;
-    cin>>s;
+    cin>>s;   
     vector<int>a(s);
     for(int i=0;i<s;i++){
         cin>>a[i];
